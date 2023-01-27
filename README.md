@@ -1,7 +1,7 @@
 # javascript-quiz
 QStation Javascript Course/bootcamp - Final Project
 <br>
-##<strong>Quiz</strong>
+<strong>Quiz</strong>
 <br>
 <br>
 This quiz is a web-based application that is built entirely using the Vanilla JavaScript programming language. It was made as a final project for QStation Javascript course/bootcamp. It allows users to test their knowledge of worldwide capital cities, but it is easy to change questions and answers and entire concept of the quiz.
